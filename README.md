@@ -24,7 +24,7 @@ This project detects, tracks, and re-identifies football players using a custom-
 
 Output video will be saved as tracked_output.mp4.
 
-# 3. Dependencies
+3. Dependencies
 ultralytics
 opencv-python
 torch
